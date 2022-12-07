@@ -66,7 +66,8 @@ header{
 .navbar-nav{
     display: flex;
     list-style: none;
-    padding: 4px;
+    padding: 10px;
+    gap: 60px;
 }
 
 .nav-link{
