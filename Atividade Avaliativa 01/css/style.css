@@ -84,3 +84,35 @@ header{
     flex-grow: 0;
     text-decoration: none;
 }
+
+.foto1{
+    position: absolute;
+    width: 815px;
+    height: 340px;
+    left: 13px;
+    top: 518px;
+}
+
+.foto2{
+    position: absolute;
+    width: 426px;
+    height: 694.85px;
+    left: 841px;
+    top: 517px;
+}
+
+.foto3{
+    position: absolute;
+    width: 402px;
+    height: 340px;
+    left: 13px;
+    top: 871px;
+}
+
+.foto4{
+    position: absolute;
+    width: 402px;
+    height: 340px;
+    left: 428px;
+    top: 871px;
+}
