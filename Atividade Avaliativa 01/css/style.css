@@ -1,10 +1,10 @@
 header{
+    position: absolute;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     background: #FFFFFF;
-    border: 1px solid #000000;
     width: 1280px;
     height: 500px;
     left: 0px;
@@ -115,4 +115,47 @@ header{
     height: 340px;
     left: 428px;
     top: 871px;
+}
+
+.footer{
+    position: absolute;
+    width: 1280px;
+    height: 302px;
+    left: 0px;
+    top: 1237px;
+    
+    
+    background: #FFFFFF;
+}
+.footer p{
+    width: 358px;
+    height: 58px;
+    left: 461px;
+    top: 1348px;
+    
+    position: sticky;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    
+    color: #000000;
+    
+}
+
+.footer a{
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 11px 15px 8px;
+    gap: 30px;
+    
+    position: sticky;
+    width: 280px;
+    height: 59px;
+    left: 500px;
+    top: 1431px;
 }
