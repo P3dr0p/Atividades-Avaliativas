@@ -166,3 +166,11 @@ footer h2{
     left: 469px;
     top: 90px;
 }
+
+.olhos{
+    position: absolute;
+    left: 745px;
+    right: 10px;
+    top: 104px;
+    bottom: 10px;
+}
